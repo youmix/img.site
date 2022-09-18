@@ -16,7 +16,7 @@ let host = 'http://127.0.0.1:4000';
 
 if(is_production)
 {
-    host = 'https://img.site';
+    host = 'https://img.0267.biz';
 }
 let assets = {
     host: host,
